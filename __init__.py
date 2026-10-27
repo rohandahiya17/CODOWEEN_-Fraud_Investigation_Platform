@@ -1,1 +1,1 @@
-"""FastAPI application package."""
+"""Synthetic fraud investigation demo platform."""
